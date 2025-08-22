@@ -35,14 +35,14 @@
 ---
 
 ## 📊 GitHub Stats
-![Yasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=iyk-devops&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iyk-devops&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iyk-devops&theme=tokyonight)
+![Yasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasir-k&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasir-k&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yasir-k&theme=tokyonight)
 
 ---
 
 ## ⏱ Currently Coding
-![Currently coding](https://github-readme-activity-graph.cyclic.app/graph?username=iyk-devops&theme=react-dark&hide_border=true)
+![Currently coding](https://github-readme-activity-graph.cyclic.app/graph?username=yasir-k&theme=react-dark&hide_border=true)
 
 ---
 
