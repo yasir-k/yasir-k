@@ -1,16 +1,35 @@
-## Hi there 👋
+Hi there, I'm Yasir Khan
+Full-Stack Developer | Founder of Appcet Inc. | Creator of AiLoveKit.com
 
-<!--
-**yasir-k/yasir-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+Passionate about building privacy-first web apps and online productivity tools
+Focused on creating smart PDF, text, and utility tools
+Always learning new technologies, frameworks, and best practices
+Love clean code, responsive UI/UX, and scalable backend systems
+💻 Tech Stack
+Python FastAPI React Tailwind CSS JavaScript HTML5 CSS3 Node.js Docker
 
-Here are some ideas to get you started:
+🛠 Current Projects
+Project	Description	Link
+AiLoveKit	Online PDF, text & utility tools	Visit
+Analytics Dashboard	Track user behavior & app performance	Repo
+Privacy-first Tools	GDPR & cookie compliance	Repo
+📊 GitHub Stats
+Yasir's GitHub stats Top Languages GitHub Streak
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⏱ Currently Coding
+Currently coding
+
+🌱 Currently Learning
+Advanced FastAPI backend architecture
+Scalable dashboard & analytics systems
+Modern PWA & mobile-first designs
+Cloud deployments and server-side analytics
+👀 Visitors
+Visitor Count
+
+🤝 Connect with Me
+Website
+LinkedIn
+
+"Code is like humor. When you have to explain it, it’s bad." – Cory House
