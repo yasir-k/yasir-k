@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 - Passionate about building **privacy-first web apps** and **online productivity tools**  
 - Focused on creating smart **PDF, text, and utility tools**  
 - Always learning new **technologies, frameworks, and best practices**  
@@ -42,7 +42,7 @@
 ---
 
 ## ⏱ Currently Coding
-![Currently coding](https://github-readme-activity-graph.cyclic.app/graph?username=yasir-k&theme=react-dark&hide_border=true)
+![Currently coding](https://github-readme-activity-graph.vercel.app/graph?username=yasir-k&theme=react-dark&hide_border=true)
 
 ---
 
@@ -60,7 +60,7 @@
 ---
 
 ## 🤝 Connect with Me
-[![Website](https://img.shields.io/badge/Website-ailovekit.com-blue?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://ailovekit.com)  
+[![Website](https://img.shields.io/badge/Website-iyasirkhan.com-blue?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://ailovekit.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasir%20Khan-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iyasirkhan)
 
 ---
