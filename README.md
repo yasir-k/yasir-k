@@ -55,7 +55,7 @@
 ---
 
 ## 👀 Visitors
-![Visitor Count](https://profile-counter.glitch.me/yasir-k/count.svg)
+![Profile views](https://komarev.com/ghpvc/?username=yasir-k&color=blue&style=flat-square)
 
 ---
 
