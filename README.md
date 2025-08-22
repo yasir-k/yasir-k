@@ -1,6 +1,6 @@
-# Hi there 👋, I'm Yasir Khan
+# Hi there, I'm Yasir Khan
 
-🌟 **Full-Stack Developer | Founder of Appcet Inc. | Creator of AiLoveKit.com**
+**Full-Stack Developer | Founder of Appcet Inc. | Creator of AiLoveKit.com**
 
 ---
 
