@@ -29,8 +29,8 @@
 | Project | Description | Link |
 |---------|-------------|------|
 | **AiLoveKit** | Online PDF, text & utility tools | [Visit](https://ailovekit.com) |
-| **Analytics Dashboard** | Track user behavior & app performance | [Repo](https://github.com/iyk-devops) |
-| **Privacy-first Tools** | GDPR & cookie compliance | [Repo](https://github.com/iyk-devops) |
+| **Analytics Dashboard** | Track user behavior & app performance | [Repo](https://github.com/yasir-k) |
+| **Privacy-first Tools** | GDPR & cookie compliance | [Repo](https://github.com/yasir-k) |
 
 ---
 
@@ -55,13 +55,13 @@
 ---
 
 ## 👀 Visitors
-![Visitor Count](https://profile-counter.glitch.me/iyk-devops/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/yasir-k/count.svg)
 
 ---
 
 ## 🤝 Connect with Me
 [![Website](https://img.shields.io/badge/Website-ailovekit.com-blue?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://ailovekit.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasir%20Khan-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YasirKhan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasir%20Khan-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iyasirkhan)
 
 ---
 
